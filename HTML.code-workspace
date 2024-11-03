@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../Angela Yu/HTML"
+		},
+		{
+			"path": "../Angela Yu/MYIDEA"
+		},
+		{
+			"path": "../Angela Yu/Jquery"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"vector": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"set": "cpp",
+			"cstdlib": "cpp",
+			"type_traits": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "MYIDEA"
+	}
+}
